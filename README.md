@@ -1,2 +1,3 @@
 **RESUME**
-\\My latest CV
+
+My latest CV
